@@ -1,0 +1,13 @@
+# Build output (rebuilt by build_sprites.sh)
+*.saver
+
+# macOS clutter
+.DS_Store
+
+# Krita backups and autosaves
+*.kra~
+*.kra
+*.png~
+
+# To keep your art OUT of the public repo, remove the # from the next line
+# Sprites/
