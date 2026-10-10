@@ -13,7 +13,7 @@ All sprites use 32×32 pixel frames. A wider or taller image is a sprite sheet f
 | Asset | File | Frames | Notes |
 |---|---|---|---|
 | Grass (3 variants) | `grass1.png`, `grass2.png`, `grass3.png` | 8 each | Frame 1 is freshly cut, frame 8 is fully grown. Frames 7–8 have flowers. |
-| Lawnmower | `mower.png`, `mower.png` | 3 | Animation plays while mowing. An optional mower_cutting.png plays while cutting. |
+| Lawnmower | `mower.png` | 3 | Animation plays while mowing. An optional mower_cutting.png plays while cutting. |
 | Mole | `mole.png` | 12 | Pops up and looks around |
 | Bird (blue jay) | `bluejay.png` | 2 | Flaps while flying |
 | Bees | `bees.png` | 2 | Wings switch every 0.5 seconds |
